@@ -30,4 +30,3 @@
 
 - 📧 Email: kamtamruchitha0325@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kamtam-ruchitha-52a57429a)  
-- 🗃️ [View Resume (PDF)](https://drive.google.com/your-resume-link)
