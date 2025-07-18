@@ -9,7 +9,7 @@
 
 | Project | Tech Stack | Description |
 |--------|-------------|-------------|
-| [Sales Dashboard](https://github.com/yourusername/sales-dashboard-excel-sql-powerbi) | Excel, SQL, Power BI | BI dashboard analyzing regional and monthly sales |
+| [Sales Dashboard](https://github.com/ruchithakamtam/sales-dashboard-excel-sql-powerbi.git)| Excel, SQL, Power BI | BI dashboard analyzing regional and monthly sales |
 | [HR Attrition Analysis](https://github.com/yourusername/hr-attrition-analysis) | Python, Pandas, Seaborn | EDA on employee data to find attrition trends |
 | [Movie Recommendation System](https://github.com/yourusername/movie-recommender) | Python, NLP | TF-IDF-based movie recommender using TMDB dataset |
 
